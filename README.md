@@ -2,7 +2,7 @@ Aqui está o conteúdo de um arquivo `README.md` completo explicando o código `
 
 ---
 
-```
+
 # 🕸️ MangaDex WebScraper
 
 Este projeto é um **script Python** para **baixar capítulos de mangás** diretamente da [API do MangaDex](https://api.mangadex.org).  
@@ -24,7 +24,7 @@ O script realiza três etapas principais:
 
 Antes de executar, instale as dependências necessárias:
 
-```bash
+```
 pip install requests
 ````
 
